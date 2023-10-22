@@ -4,7 +4,7 @@ This is a simple calculator web application built using HTML, CSS, and vanilla J
 
 ## Usage
 
-Simply open the `index.html` file in your browser or click on the github page link to use the calculator.
+Simply open the `index.html` file in your browser or click the github page link to use the calculator.
 
 ## Features
 
